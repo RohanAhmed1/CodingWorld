@@ -1,3 +1,3 @@
 # CodingWorld
 
-In this file we practice with differen technologies
+This repository tells the general concepts which is used in different scenario.
